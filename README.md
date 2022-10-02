@@ -1,6 +1,13 @@
 # Automate your Mac setup
 This script helped me to automate my Mac setup and I thought it might be useful for every Mac user out there. 
-We also created a [YouTube video](https://youtu.be/eFlnqSqkTas) to show you how the setup wrok. Feel free to subscribe to our YouTube Channel ❤️
+We also created a [YouTube video](https://youtu.be/eFlnqSqkTas) to show you how the setup wrok. Feel free to subscribe to our YouTube Channel 🙏
+
+## First setps
+### Download the script
+Jus download the code as Zip. (Or clone it) 
+
+### Run the script
+Open the terminal, write `sh` and then drag the `setup.sh` file into the terminal and press enter!
 
 ## About the script 
 ### Creates RSA key 🔐
