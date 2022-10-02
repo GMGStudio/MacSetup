@@ -1,6 +1,6 @@
 # Automate your Mac setup
 This script helped me to automate my Mac setup and I thought it might be useful for every Mac user out there. 
-We also created a [YouTube video](https://youtu.be/eFlnqSqkTas) to show you how the setup wrok. Feel free to subscribe to our YouTube Channel 🙏
+We also created a [YouTube video](https://youtu.be/eFlnqSqkTas) to show you how the setup wrok. Feel free to [subscribe to our YouTube Channel](https://www.youtube.com/channel/UChXpovO__JiZrbcfTDFt39w?sub_confirmation=1) 🙏
 
 ## First setps
 ### Download the script
